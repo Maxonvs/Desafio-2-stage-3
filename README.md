@@ -4,12 +4,14 @@ O desafio foi o de replicar o layout do [figma](https://www.figma.com/file/fnZyJ
 
 Fiz uma pequena edição na logo e adicionei um footer na página.
 
+---
 
 ###  💻 Tecnologias
 
  - HTML
  - CSS
 
+---
 
 ## 🔗Contato
 <a href="https://www.linkedin.com/in/m%C3%A1xon-vieira-a8226b131/" target="_blank">
